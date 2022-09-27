@@ -1,3 +1,8 @@
+-- Case - OCA
+
+-- Objetivos:
+-- - Identificar filmes com maiores renda e público
+
 SELECT
 	*
 FROM

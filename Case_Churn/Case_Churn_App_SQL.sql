@@ -1,5 +1,12 @@
 -- CASE CHURN APP
+-- Case - Churn Em App de Comida
+
+-- Objetivos:
+-- - Identificar principais fatores de riscos que estão associados ao Churn do Cliente
+-- - Traçar perfil de clientes mais propensos a dar Churn
+-- - Sugerir possíveis planos de ação para redução do churn
 -- Criando uma tabela temporária com um JOIN entre as tabelas fato e dimensão
+
 DROP TABLE IF EXISTS #join_churn_henrique_matsushita
 SELECT 
 	dc.*,

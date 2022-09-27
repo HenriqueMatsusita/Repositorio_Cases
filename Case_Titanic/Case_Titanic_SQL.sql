@@ -1,3 +1,8 @@
+-- Case - Titanic
+
+-- Objetivos:
+-- - Analisar a taxa de mortalidade de diferente categorias (variáveis), e idetificar se há alguma categoria que possui prioridade para acesso aos bote salva vidas.
+
 SELECT 
 	*
 FROM 
