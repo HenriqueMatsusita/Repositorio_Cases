@@ -1,7 +1,30 @@
+
 -- Case - Titanic
 
 -- Objetivos:
 -- - Analisar a taxa de mortalidade de diferente categorias (variáveis), e idetificar se há alguma categoria que possui prioridade para acesso aos bote salva vidas.
+
+-- Conhecimentos aplicados
+-- Estatística:
+       -- - Análise exploratoria das variáveis qualitativas (Tabela de Frequência/Histograma)
+       -- - Análise exploratoria das variáveis quantitativas (Medidas Resumo (Média, Soma e Contagem))
+       -- - Probabilidade (Chance de ocorrer determinado resultado, no caso "Churn")
+       -- - Correlação entre variável qualitativa e variável qualitativa binária (IV "Infomation Value")
+-- SQL:
+       -- - Selecionar variáveis que quero visualizar de uma tabela (SELECT/FROM)
+       -- - Criar Filtros (WHERE) com auxílio das sintaxes condicionais (AND, OR, NOT) e comparação (<, >, !=)
+       -- - Agrupar medidas resumos por categoria (GROUP BY)
+       -- - Ordenar DataFrame (ORDER BY)
+       -- - Criar tabelas dinâmicas (INTO), com finalidade de deixar o código mais "limpo"
+       -- - SUBQUERYS pararetornar valores absolutos (Totais) e serem utilizados em operações matemáticas
+       -- - Criar relação entre tabelas (JOINS)
+       -- - Comandos para exiição de medidas resumo (COUNT, SUM, AVG)
+       -- - Comandos para análise de valores únicos (DISTINCT)
+       -- - Análise de valores nulos (Count(1)-Count(variável))
+       -- - Criar colunas condicionais (CASE-WHEN-THEN-ELSE-END)
+       -- - Criar variável faixa de valores para variáveis quantitativas (CASE-WHEN-THEN-ELSE-END)
+       -- - Conversão de tipo de variável (CAST)
+
 
 SELECT 
 	*

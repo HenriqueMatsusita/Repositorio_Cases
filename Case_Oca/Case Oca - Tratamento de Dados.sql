@@ -3,6 +3,25 @@
 -- Objetivos:
 -- - Identificar filmes com maiores renda e público
 
+-- Conhecimentos aplicados
+-- Estatística:
+       -- - Análise exploratoria das variáveis qualitativas (Tabela de Frequência/Histograma)
+       -- - Análise exploratoria das variáveis quantitativas (Medidas Resumo (Média, Soma e Contagem))
+-- SQL:
+       -- - Selecionar variáveis que quero visualizar de uma tabela (SELECT/FROM)
+       -- - Comandos para exiição de medidas resumo (COUNT, SUM, AVG)
+       -- - Comandos para análise de valores únicos (DISTINCT)
+       -- - Análise de valores nulos (Count(1)-Count(variável))
+       -- - Criar Filtros (WHERE) com auxílio das sintaxes condicionais (AND, OR, NOT) e comparação (<, >, !=)
+       -- - Agrupar medidas resumos por categoria (GROUP BY)
+       -- - Ordenar DataFrame (ORDER BY)
+       -- - Criar colunas condicionais (CASE-WHEN-THEN-ELSE-END)
+       -- - Conversão de tipo de variável (CAST)
+       -- - Manipulação de String (CHARINDEX, SUBSTRING e DATALENGTH)
+       -- - Criar tabelas dinâmicas (INTO), com finalidade de deixar o código mais "limpo"
+
+
+
 SELECT
 	*
 FROM

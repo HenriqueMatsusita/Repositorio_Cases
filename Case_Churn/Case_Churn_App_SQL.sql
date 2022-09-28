@@ -7,6 +7,27 @@
 -- - Sugerir possíveis planos de ação para redução do churn
 -- Criando uma tabela temporária com um JOIN entre as tabelas fato e dimensão
 
+-- Conhecimentos aplicados
+-- Estatística:
+       -- - Análise exploratoria das variáveis qualitativas (Tabela de Frequência/Histograma)
+       -- - Análise exploratoria das variáveis quantitativas (Medidas Resumo (Média, Soma e Contagem))
+       -- - Probabilidade (Chance de ocorrer determinado resultado, no caso "Churn")
+       -- - Correlação entre variável qualitativa e variável qualitativa binária (IV "Infomation Value")
+-- SQL:
+       -- - Selecionar variáveis que quero visualizar de uma tabela (SELECT/FROM)
+       -- - Criar tabelas dinâmicas (INTO), com finalidade de deixar o código mais "limpo"
+       -- - Criar relação entre tabelas (JOINS)
+       -- - Comandos para exiição de medidas resumo (COUNT, SUM, AVG)
+       -- - Comandos para análise de valores únicos (DISTINCT)
+       -- - Comandos de manipulação de Datas (DATEDIFF) 
+       -- - Criar colunas condicionais (CASE-WHEN-THEN-ELSE-END)
+       -- - Ordenar DataFrame (ORDER BY)
+       -- - Criar variável faixa de valores para variáveis quantitativas (CASE-WHEN-THEN-ELSE-END)
+       -- - Conversão de tipo de variável (CAST)
+       -- - Agrupar medidas resumos por categoria (GROUP BY)
+       -- - Unir DataFrames com as mesmas variáveis "empilhar" (UNION)
+       -- - Sintaxe condicionais (AND, OR, NOT) e comparação (<, >, !=)
+
 DROP TABLE IF EXISTS #join_churn_henrique_matsushita
 SELECT 
 	dc.*,
