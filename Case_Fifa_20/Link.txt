@@ -1,0 +1,25 @@
+https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv
+
+- Melhores jogadores por posição
+- Clubs com maiores folhas salariais
+- Média de Idade do Time
+
+- COrrelação de Salario x Posição (posso criar categoria Def, Atq, Meio e GOleiro)
+- Média Overall por País
+- Faixa Etária x Overall
+- Cálculo do IMC por jogador
+
+- Verificar correlação entre IMC e Posição
+Se existir faça
+Por Posição (Where)
+- Verificar correlação entre IMC e Overall
+- Média de IMC por posição de jogador (fitro) por tipo de jogador (bom medio ruim)
+
+
+- Média de Overall por Perna
+- Proporção Jogadores destros e conhotos
+
+- Quantos anos foi contratado
+- Tempo de contrato
+- Quantos anos vai ter no final do contrato
+- Será que vai renovar?
