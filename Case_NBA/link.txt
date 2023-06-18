@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/nathanlauga/nba-games?select=games.csv
+
+Definir objetivos
+exemplo:
+- maior pontuador por temporada
+- oque o jogador tem de fazer para ser o MVP
+- Season om maiores pontuações
